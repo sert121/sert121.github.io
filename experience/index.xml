@@ -1,23 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Experiences on Yash More</title>
-    <link>https://sert121.github.io/experience/</link>
-    <description>Recent content in Experiences on Yash More</description>
-    <image>
-      <url>https://sert121.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://sert121.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 04 Aug 2021 19:12:22 +0530</lastBuildDate><atom:link href="https://sert121.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Timeline</title>
-      <link>https://sert121.github.io/experience/timeline/</link>
-      <pubDate>Wed, 04 Aug 2021 19:12:22 +0530</pubDate>
-      
-      <guid>https://sert121.github.io/experience/timeline/</guid>
-      <description>Hello there sirs* {box-sizing: border-box;}body {background-color: rgb(8, 5, 19)F55;font-family: &#39;Segoe UI&#39;, Tahoma, Geneva, Verdana, sans-serif;}.timeline {position: relative;max-width: 1300px;margin: 0 auto;}.timeline::after {content: &#39;&#39;;position: absolute;width: 6px;background-color: white;top: 0;bottom: 0;left: 50%;margin-left: -3px;}.container {padding: 10px 40px;position: relative;background-color: inherit;width: 50%;}.container::after {content: &#39;&#39;;position: absolute;width: 25px;height: 25px;right: -10px;background-color: white;border: 4px solid #FF9F55;top: 15px;border-radius: 50%;z-index: 1;}.</description>
-    </item>
-    
-  </channel>
-</rss>
