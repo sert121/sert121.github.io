@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Yash More</title>
+    <link>https://sert121.github.io/projects/</link>
+    <description>Recent content in Projects on Yash More</description>
+    <image>
+      <url>https://sert121.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sert121.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Jul 2021 03:36:49 +0530</lastBuildDate><atom:link href="https://sert121.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AMC</title>
+      <link>https://sert121.github.io/projects/amz/</link>
+      <pubDate>Thu, 29 Jul 2021 03:36:49 +0530</pubDate>
+      
+      <guid>https://sert121.github.io/projects/amz/</guid>
+      <description>Overview AMC is a simplified replica of Amazon.com with additional UI-fixes and features.
+Primary technologies used  ReactJS HTML CSS Firebase  Source
+BETA v1</description>
+    </item>
+    
+    <item>
+      <title>BitExplorer</title>
+      <link>https://sert121.github.io/projects/bitexplorer/</link>
+      <pubDate>Thu, 29 Jul 2021 03:36:49 +0530</pubDate>
+      
+      <guid>https://sert121.github.io/projects/bitexplorer/</guid>
+      <description>Overview This is a custom-explorer of the Bitcoin-Ledger.
+It allows better exploration of the BTC Testnet ledger, by offering additional features not currently available in other BTC explorers. Some of the key-features are:
+ Search via Date Search via Block-height Categorical Search Frequency search Advanced Sweep  Primary technologies used  Python BTC Core  Source</description>
+    </item>
+    
+    <item>
+      <title>Face-Mask Detection</title>
+      <link>https://sert121.github.io/projects/fmdnn/</link>
+      <pubDate>Thu, 29 Jul 2021 03:36:49 +0530</pubDate>
+      
+      <guid>https://sert121.github.io/projects/fmdnn/</guid>
+      <description>Overview A face-mask detector that is capable of identifying whether people in a
+given image are wearing masks or not. It uses mobile-friendly computer vision
+models coupled with transfer learning to improve efficiency.
+It achieves over &amp;gt;85% accuracy in low-light areas.
+Primary Technologies Used  Tensorflow Python OpenCV Caffe  Source</description>
+    </item>
+    
+    <item>
+      <title>Secure Stable Matching</title>
+      <link>https://sert121.github.io/projects/securestable/</link>
+      <pubDate>Thu, 29 Jul 2021 03:36:49 +0530</pubDate>
+      
+      <guid>https://sert121.github.io/projects/securestable/</guid>
+      <description>Overview Stable matching algorithms are often used in scenarios where we need to effectively pair up people or while assigning relationships. This implementation covers a secure-version of the same &amp;ndash; It&amp;rsquo;s a ground-up implementation of the Private stable matching algorithm 1 by P. Golle
+Primary technologies used  Python GMP Library  Live Link
+Source</description>
+    </item>
+    
+    <item>
+      <title>BitNFT</title>
+      <link>https://sert121.github.io/projects/bitnft/</link>
+      <pubDate>Thu, 29 Jul 2021 03:36:36 +0530</pubDate>
+      
+      <guid>https://sert121.github.io/projects/bitnft/</guid>
+      <description>Overview An online medium to allow hassle-free certification of files on the BTC Testnet.
+This platform levies the functionalities offer by the Bitcoin Core and helps users
+store documents on the Bitcoin Blockchain.
+Primary technologies used  Python BTC Core  Source</description>
+    </item>
+    
+  </channel>
+</rss>
